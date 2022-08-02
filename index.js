@@ -26,8 +26,6 @@ function init(){}
 
 // array containing all team employee objects
 let teamObjects = [
-
-
 ] 
 
 
