@@ -9,7 +9,6 @@ function generateHtml(allTeamCardsStr) {
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="./assets/css/reset.css">
         <link rel="stylesheet" href="./assets/css/style.css">
-        <link rel="shortcut icon" href="./assets/img/favicon.ico?" type="image/x-icon">
         <title>Team Profiles</title>
     </head>
     <body>
