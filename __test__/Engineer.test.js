@@ -29,7 +29,7 @@ describe("Engineer", () => {
 
     //test to see if getGithub() returns github username
     test('should return engineer github when call getGithub()', () => {
-        const test = "brandonsgithub"
+        const test = "Alejagithub"
         const obj = new Engineer("name", "id", "email", test);
 
         expect(obj.getGithub()).toEqual(test);

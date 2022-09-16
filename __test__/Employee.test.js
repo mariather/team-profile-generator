@@ -20,7 +20,7 @@ describe("Employee", () => {
 
     // test if can set name via constructor
     test('should set employee name equal to 1st param', () => {
-        const test = "Bob";
+        const test = "Carl";
         const obj = new Employee(test);
 
         expect(obj.employeeName).toEqual(test);
@@ -51,7 +51,7 @@ describe("Employee", () => {
 
     //test to see if getName() returns name
     test('should return employee name when call getName()', () => {
-        const test = "Bobby"
+        const test = "Bob"
         const obj = new Employee(test);
 
         expect(obj.getName()).toEqual(test);
