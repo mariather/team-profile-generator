@@ -70,7 +70,7 @@
     "inflection": "^1.13.2",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
-    "inquirer": "^9.1.1",
+    "inquirer": "^8.2.4",
     "ipaddr.js": "^1.9.1",
     "is-interactive": "^2.0.0",
     "is-property": "^1.0.2",
