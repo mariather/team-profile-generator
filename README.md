@@ -6,11 +6,8 @@ This Node.js command-line application allows the user to input information about
 
 ## Demo
 
-<<<<<<< HEAD
-![](assets/img/demo.gif)
-=======
 
->>>>>>> 600a74cd529da5716077ad3bf6abf2d3c7cfd519
+![](assets/img/demo.gif)
 
 ## Installation-Instructions
 
