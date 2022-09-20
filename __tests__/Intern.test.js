@@ -1,4 +1,3 @@
-
 //Require Intern
 
 const Intern = require("../lib/Intern");
