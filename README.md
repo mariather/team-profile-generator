@@ -6,7 +6,7 @@ This Node.js command-line application allows the user to input information about
 
 ## Demo
 
-![Given Design](./assets/img/given.png)
+
 
 ## Installation-Instructions
 
